@@ -1,5 +1,5 @@
 # Gender_Parity
-![](gender_equality.jpeg)
+![](gender_equality.jpg)
 
 ##Introduction
 
