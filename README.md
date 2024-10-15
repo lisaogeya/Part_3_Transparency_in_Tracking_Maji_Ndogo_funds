@@ -15,7 +15,8 @@ By identifying urgent needs and ensuring transparent fund management, this proje
 - What is the budget distribution between rural and urban areas and is the allocation sufficient to address disparities in access to water?
 - How can we minimize costs in water infrastructure projects without compromising quality or access?
 - What are the long-term financial implications of the current infrastructure improvements, and how can its sustainability be ensured?
-- How will budget constraints or surpluses impact the timeline for project completion, and 
+- How will budget constraints or surpluses impact the timeline for project completion, and what contingencies can be made for fluctuating costs?
+- 
 
 ## Data Sourcing
 
