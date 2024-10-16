@@ -17,7 +17,16 @@ By identifying urgent needs and ensuring transparent fund management, this proje
 - What are the long-term financial implications of the current infrastructure improvements, and how can its sustainability be ensured?
 - How will budget constraints or surpluses impact the timeline for project completion, and what contingencies can be made for fluctuating costs?
 
-
+## Power BI concepts demonstrated
+- Modelling
+- Drill-throughs
+- Filters
+- Tooltips
+- Slicers
+- Measures
+- Bookmarks
+- DAX calculations
+  
 ## Data Sourcing
 
 Downloaded the csv files from ALX Explore AI Course and extracted it into power bi for cleaning, analysis and visualization.
@@ -25,7 +34,7 @@ Data used in this project:
 
 [Md_water_services_data.xlsx](https://github.com/lisaogeya/Visualizing_the_currents_of_change_in_Maji_Ndogo/blob/main/Md_water_services_data.xlsx)
 
-## Data Modelling
+## Data Modelling and Data Transformation
 
 Auto model                                |                    Adjusted model
 :----------------------------------------:| :----------------------------------------:        
@@ -44,6 +53,4 @@ Auto model                                |                    Adjusted model
 - Thus the model is a multi-star schema.
 
 
-## Data Transformation
-
-## Analysis and Visualizations
+## Data Analysis and Visualizations
