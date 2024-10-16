@@ -27,9 +27,9 @@ Data used in this project:
 
 ## Data Modelling
 
-Auto model                            |                    Adjusted model
+Auto model                                |                    Adjusted model
 :----------------------------------------:| :----------------------------------------:        
-![](auto_model.png)                   |      ![](adjusted_model.png)
+![](tracking_funds_auto_model.png)        |      ![](tracking_funds_adjusted_model.png)
 
 ## Data Transformation
 
